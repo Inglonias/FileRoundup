@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileDuplicateRoundup": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\jpnyd\\OneDrive\\Documents\\FileRoundupTest\" \"C:\\Users\\jpnyd\\OneDrive\\Documents\\logFile.txt\" \"C:\\Users\\jpnyd\\OneDrive\\Documents\\Trash\""
+    }
+  }
+}
